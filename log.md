@@ -52,3 +52,10 @@ while also marking it complete, carried two different dates, and listed five res
 live. The intake synthesis and map now carry supersede notes. Two genuine unreconciled conflicts
 moved into `truth/open-questions.md` rather than being quietly resolved: the quiet period against
 marketing in parallel, and compensation.
+
+**2026-09-28 — Gates repointed, and a silent failure caught.** Every path check in
+`workshop/GATES.md` was still globbing `brand/`, a directory that no longer exists. Because grep on
+a missing path returns zero, and zero was the expected pass value, all of them would have passed
+forever while checking nothing. Paths now point at `archive/exercises/`, and the slop-marker gate
+exits non-zero if it finds no HTML at all. Verified with a positive control before trusting the
+passes. `/wrap` now updates `truth/`, appends here, and commits.
