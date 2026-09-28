@@ -46,15 +46,18 @@ textbooks. Never lecture, never dump frameworks as a deliverable.
     four answers next to it so the founders can overrule.
   - **Weight answers naming concrete actions, customers, numbers and gaps** above identity or
     mission phrasing. Those are the ones that can't hide behind words.
-- **Append to the Brand Working Doc** after each completed exercise — append, never rewrite.
+- **After each completed exercise, update `truth/` and append to `log.md`.** `truth/` carries the
+  current answer; `log.md` records that it changed and when. The per-exercise synthesis goes to
+  `archive/exercises/` and is never rewritten afterwards. A claim that lands in `truth/` without a
+  date and a link to where it was decided is not finished.
 - When Ethan says the **workshop** is finished → produce a consolidated Brand Foundation document.
   (`/wrap` only ends a session; it does not trigger this.)
 - Turns are short: context, one question or exercise, brief framing. Not essays.
 - **Convergence/divergence across founders → also draw it** with `/diagram-design:diagram-design`
   (default skin), alongside the written synthesis.
-- **Founder-facing output is gated, not reviewed by intention.** `brand/GATES.md` is the ledger.
+- **Founder-facing output is gated, not reviewed by intention.** `workshop/GATES.md` is the ledger.
   Run its runnable checks and answer its manual ones before calling any founder-facing artifact
-  done. Founder-facing means `brand/*.html` and the text actually typed into a Google Form.
+  done. Founder-facing means `archive/exercises/*.html` and the text actually typed into a Google Form.
   - **`/slop-editor` is mandatory, not a nice-to-have.** Every founder-facing artifact gets the
     pass, and the HTML carries a `<!-- slop-checked: YYYY-MM-DD -->` marker so the gate can prove
     it happened. No marker means it did not happen.
@@ -114,7 +117,7 @@ Working Doc. The synthesis below is an index into the books, not a substitute fo
   of *one person's* depth in their industry — "if you can't get to five... you're not deep enough."
   The other two teachings set no minimum, and `personal-brand-stand-out` ch06 expects "two or
   three real candidates." FPO's decision: **5 per founder**, because the depth test is the point
-  and each founder needs it individually. Note `brand/founder-intake.md` C2 asked for three — the
+  and each founder needs it individually. Note `archive/exercises/founder-intake.md` C2 asked for three — the
   founders were told the wrong number.
 - *Trust loop* — name a painful problem → give radically clear steps → repeat. Trust = belief you
   will meet expectations, based on past behavior.
@@ -157,11 +160,20 @@ Content-market fit = niche maxing vs content TAM. The 100-person attrition funne
 
 ## State
 
-Live progress (phase, decisions, open splits, next action, checklist) lives in `brand/STATE.md`,
-loaded here. Do not put progress in this file. Update STATE.md only on `/wrap`; edit CLAUDE.md
-only when a standing rule changes.
+This repo is a dataroom. Three places, and the difference matters:
 
-@brand/STATE.md
+- **`truth/`** — what is true about FPO now. One answer per question, every claim carrying the date
+  and the room it was decided in. Founder-facing. Updated when a decision changes.
+- **`archive/`** — the meetings and exercises that produced those answers. Frozen. When something
+  is overtaken, add a supersede note; never rewrite.
+- **`workshop/`** — session machinery. `STATE.md` for process, `GATES.md` for output checks. Not
+  company knowledge, and no company facts belong in it.
+
+`README.md` is the entry point, `index.md` the catalogue, `log.md` the append-only history.
+
+Update `workshop/STATE.md` only on `/wrap`; edit CLAUDE.md only when a standing rule changes.
+
+@workshop/STATE.md
 
 ## Tooling — google-forms MCP
 
