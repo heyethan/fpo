@@ -45,6 +45,16 @@ Order follows dependencies, not chapter order. Conventions adapted per `CLAUDE.m
 | 4 | Ten points formalising Shobith's role | founders | Shobith's advisory setup |
 | 5 | Re-ask exercise-one Q4 to Aneesh | Claude | nothing blocking |
 
+## Notion
+
+Three pages, all rendered from `truth/`. `truth/` is the source; Notion never flows back.
+
+| Page | For | State |
+|---|---|---|
+| FPO: Overview | Outsiders who have never heard of FPO | Published to web |
+| FPO: Internal | The four founders, consistent answers | Private |
+| FPO: Support | Standby list of who to call and when | Private |
+
 ## Method notes
 
 - The restatement test run alone is a hypothesis. Four founders restating to each other is the

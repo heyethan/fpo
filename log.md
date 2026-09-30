@@ -71,3 +71,16 @@ the compensation conflict. New to the record: overflow problems route to partner
 kickback, the first cohort works on the waste-management build extended into pothole grievances,
 and all four start personal-brand content now. Still open: the redistribution formula for
 success-based research money, and whether stakeholders filter which problems FPO accepts.
+
+**2026-09-30 — Three Notion pages, and a challenge to the positioning line.** Built an overview for
+outsiders (published), an internal reference so the four give consistent answers, and a standby list
+mapping everyone who has offered support against the phase where they become useful. The internal
+page was rebuilt after research across roughly 38 sources: handbooks from GitLab, Valve, Basecamp,
+Netflix and Bridgewater, Rumelt on strategy, Dunford on positioning, Collins and Porras on vision,
+Oxide's RFD process, Amazon's narrative memos. Three findings changed it. Every handbook runs
+identity before operations, so the diagnosis now opens the document. Open questions belong in the
+document but each needs the interim answer to give until it is settled, otherwise the ambiguity is
+passed down rather than absorbed. And "the quality of the mentoring" is a line every competitor
+would sign, so the trade-off underneath it now leads: we cap at five and turn away people we could
+have taken. That last one inverts what the room settled on 30 September and is flagged in
+`truth/positioning.md` as a proposal, not a decision.

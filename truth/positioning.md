@@ -38,6 +38,17 @@ cannot say no cannot vouch.
 
 *Reframed 2026-09-30. → `archive/meetings/meeting-2026-09-30.md`*
 
+**A flag, not a decision.** "The quality of the mentoring" is a sentence every competing programme
+would sign, which makes it worth little in a conversation. The version with teeth is the trade-off
+underneath it: we cap the cohort at five and turn away people we could have taken, including
+fundable ones, to hold the ratio. That costs us growth, and no competitor can say it without
+giving up their own growth model.
+
+So mentoring quality is what the trade-off buys, and the trade-off is what gets said first. This is
+a proposal from the research rather than something the four agreed, and it inverts the emphasis the
+room settled on. Worth putting to them.
+*Raised 2026-09-30 by Claude, untested with the founders.*
+
 ## Rejected: reliability
 
 Proposed by Adithya in the written round, then withdrawn by him. You cannot own reliability unless
