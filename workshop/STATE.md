@@ -3,13 +3,15 @@
 Process only. What FPO has decided lives in `truth/`, not here.
 
 Updated on `/wrap` at session end.
-Last updated: 2026-09-28
+Last updated: 2026-09-30
 
 ---
 
 ## Phase
 
-Exercises one and two complete and reviewed. Exercise three is out as a form, awaiting responses.
+Exercises one and two complete and reviewed. Exercise three is out; two of four have answered
+(Arjun 09-28, Adithya 09-29). Ethan and Aneesh both owe it, and the divergence report cannot run
+until they do.
 
 ## Exercise sequence
 
@@ -20,8 +22,11 @@ Order follows dependencies, not chapter order. Conventions adapted per `CLAUDE.m
 - [x] **Two: credibility and scope** (`disgustingly-good` ch02, ch03), with the Q2 re-run folded
       in. Run async 2026-09-24 to 09-28.
 - [ ] **Three: contrarian two-column** (`how-to-rebrand` ch07 / `disgustingly-good` ch05).
-      Form out, no responses yet. Scope is incubators and cohort programmes, five rows per founder.
+      Scope is incubators and cohort programmes, five rows per founder.
       Form: https://docs.google.com/forms/d/1s3u8uWWHMP8GSy2gUKp2SgiGOvgocDWK2tf6HehrOiI/viewform
+      - Arjun, 09-28: four rows, not five. Q3 and Q4 answered "Everything" and "None".
+      - Adithya, 09-29: five rows, each backed against his own record.
+      - Ethan and Aneesh: outstanding.
 - [ ] **Four: desired associations.** Resolve the source conflict first: `personal-brand-stand-out`
       ch07 says two for and two against and places it after the contrarian work;
       `disgustingly-good` ch04 says about five and places it before. Pick one, record which.

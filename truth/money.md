@@ -1,10 +1,10 @@
 ---
 type: note
 title: Money
-summary: No equity at intake, stipends over seed cheques, four possible revenue streams, and an unfunded gap between the first cohort and the first cash flow
+summary: No equity at intake, stipends over seed cheques, four revenue streams, and a first cohort funded by sponsors, brand deals and customers
 audience: founders
 status: budding
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 # Money
@@ -58,24 +58,37 @@ with roughly 47 companies.
 
 *Adithya's read, 2026-09-17. → `archive/meetings/meeting-2026-09-17.md`*
 
-## The gap period
+## The gap period, funded
 
-The biggest unfunded question in FPO. Everyone agrees FPO should earn. Nobody has decided who pays
-between incubating the first startup and the first cash coming back.
+**Sponsors, brand deals and customers pay for the first cohort.** Nobody funds it out of pocket,
+neither the founders nor an investor being burned.
 
-- **Adithya dissents from the golden rule as stated.** He sees a stretch after launch where nobody,
-  or only some people, get paid, and the source of funds for that stretch is unchosen. He proposes
-  stages or metrics for when people start getting paid rather than a flat promise.
-- **By seniority.** A junior contributor can take the wait-and-be-paid model. Someone senior,
-  already compensated elsewhere, needs another consideration, for instance a vested right to
-  acquire shares in a startup of their choice.
-- **Arjun's sharpening:** if the money comes from their pockets or from investors, and students
-  succeed but no cash flows back, is that success or a story building towards success?
-- **Ethan's counter-question**, accepted by the group as the right one and still unanswered: how
-  many of these failures do we accept as building towards success?
+Arjun, stating it: "Fair pay would not mean you get paid your hourly rate, whatever you're
+expecting to make a profit. You give a discounted rate to begin with to set up a relationship, even
+if it's our plus one who we are bringing into the FPO. So we spend minimally. We cut costs, cut
+corners if required, but the money has to come from brand deals and the sponsors and the
+customers."
 
-*Opened 2026-09-24, untouched since. Carried in `truth/open-questions.md`.
-→ `archive/meetings/meeting-2026-09-24.md`*
+- **Everyone starts at a discounted rate**, including anyone a founder brings in.
+- **Research projects pay on success.** Until that money lands, the service projects carry
+  everything.
+- **Rate cards are needed for outside providers**, not for the four founders.
+- **No cut from cohort companies at the start.** Let them reinvest as long as they need. If FPO is
+  genuinely funding a company, terms can be set later against milestones, for instance a threshold
+  of paying customers before anything comes back.
+
+*Settled 2026-09-30, all four. → `archive/meetings/meeting-2026-09-30.md`*
+
+**Still open:** the formula for redistributing success-based research money when it arrives. Also
+Ethan's question from 2026-09-24, accepted as the right one and never answered: how many failures
+do we accept as building towards success?
+
+### The dissent this resolved
+
+Adithya had differed from the compensate-everyone rule, seeing a stretch after launch where nobody
+or only some people would be paid, with no chosen source of funds. The discounted-rate answer
+closed it: everyone is paid less at the start rather than some people not at all.
+*→ `archive/meetings/meeting-2026-09-24.md`*
 
 ## Related
 

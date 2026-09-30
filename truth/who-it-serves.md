@@ -1,10 +1,10 @@
 ---
 type: note
 title: Who it serves
-summary: Cohort talent in Mangalore and coastal Karnataka on one side, companies and funds that want access to them on the other
+summary: Cohort talent in Mangalore and coastal Karnataka on one side, companies and funds that want access to them on the other; problems come from anywhere
 audience: founders
 status: budding
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 # Who it serves
@@ -51,15 +51,26 @@ side.
 *Never reconciled. Carried in `truth/open-questions.md`.
 → `archive/exercises/intake-synthesis.md`*
 
-## The second pond
+## Problems come from anywhere
 
-Aneesh drew a distinction nobody else made: the cohort has to be local, but the people supplying
-problem statements do not. They could be anywhere, including internationally.
+The talent has to be local. The problems do not. Aneesh raised the distinction on 2026-09-28 and
+the group settled it two days later.
 
-If that holds, FPO has two ponds, one per side, and only one of them is geographic.
+Arjun: "There is no pond for getting problems fed. It's the ocean. It's infinite. We can get it
+from anywhere." He also rejected treating problem suppliers as a separate category at all, calling
+it an unnecessary restriction. The two sides are concentric circles rather than two scopes.
 
-*Raised 2026-09-28, untested. Carried in `truth/open-questions.md`.
-→ `archive/exercises/exercise-2-synthesis.md`*
+**A problem FPO cannot handle** routes to a partner entity, DevVoid, CodexCape, Evlogia, or
+Adithya's future law firm, with a portion coming back to FPO and being reinvested. Where FPO can
+take it, FPO takes it. Outside projects are welcome regardless, because they build relationships
+and give the cohort real work to train on.
+
+*Settled 2026-09-30, all four. → `archive/meetings/meeting-2026-09-30.md`*
+
+**Open:** whether stakeholders filter which problems FPO accepts. If FPO works with an institution,
+a municipal body or a government department, do they get a say in what FPO takes on? Adithya raised
+it and named the tension: a filter narrows the field, and the cohort is small with limited
+expertise.
 
 ## Verticals
 

@@ -1,10 +1,10 @@
 ---
 type: note
 title: How it works
-summary: A cohort of five at St Aloysius, six months, distribution before funding, no equity at intake, with a parallel track of companies that already have traction
+summary: A cohort of five at St Aloysius working the waste-management build, six months, distribution before funding, with a parallel track of companies that already have traction
 audience: founders
 status: budding
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 # How it works
@@ -27,6 +27,19 @@ companies rather than students arriving with their own ideas.
 
 **Six months.** Long enough for a company to get a real read on product-market fit.
 *Advised by Shobith 2026-09-17. → `archive/meetings/meeting-2026-09-17.md`*
+
+**The project they work on: the waste-management build.** Ethan's hackathon project, which won INR
+25,000 in Bangalore. Users locate a ward, see reported waste as severity-coded markers, and upload
+photos that get classified automatically; complaints route to the responsible official.
+
+Arjun proposed extending it from waste into road and pothole grievances, which share the same data
+source and the same complaint cycle, with possible integration into Sahay, a Bangalore government
+reporting initiative. That widens it toward something sellable, with MapMyIndia and Ather named as
+plausible buyers. A cost target already exists: replace the general-purpose model currently doing
+photo classification with an in-house one.
+
+Giving the first cohort a real project with real users beats handing them an exercise.
+*Agreed 2026-09-30. → `archive/meetings/meeting-2026-09-30.md`*
 
 ## What the programme actually does
 

@@ -59,3 +59,15 @@ a missing path returns zero, and zero was the expected pass value, all of them w
 forever while checking nothing. Paths now point at `archive/exercises/`, and the slop-marker gate
 exits non-zero if it finds no HTML at all. Verified with a positive control before trusting the
 passes. `/wrap` now updates `truth/`, appends here, and commits.
+
+**2026-09-30 — Exercise two reviewed, three questions closed, one answer overturned.** Selectivity
+was demoted from the reputation to the mechanism that earns it: what FPO is known for is the
+quality of the mentoring. Adithya, who proposed selectivity, argued it down himself, on the grounds
+that being selective carries no promise unless it is merit-based. The two-ponds claim was rejected
+outright along with its framing: talent is local, problems come from anywhere, and the two are
+concentric circles rather than separate scopes. The gap period got funded, by sponsors, brand deals
+and customers, with everyone on discounted rates and nobody paying out of pocket, which also closed
+the compensation conflict. New to the record: overflow problems route to partner entities with a
+kickback, the first cohort works on the waste-management build extended into pothole grievances,
+and all four start personal-brand content now. Still open: the redistribution formula for
+success-based research money, and whether stakeholders filter which problems FPO accepts.

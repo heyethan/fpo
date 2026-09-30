@@ -27,6 +27,7 @@ updated: 2026-09-28
 |---|---|
 | [meeting-2026-09-17.md](archive/meetings/meeting-2026-09-17.md) | Two sessions. Shobith as advisor on cohort design and distribution, then the four founders walking the intake map. Nonprofit dropped, stage set to prototyping. |
 | [meeting-2026-09-24.md](archive/meetings/meeting-2026-09-24.md) | Exercise one reviewed. Research settled as a side effect, compensation principle stated and disputed, publishing agreed, the reputation question skipped. |
+| [meeting-2026-09-30.md](archive/meetings/meeting-2026-09-30.md) | Exercise two reviewed. Selectivity demoted to the mechanism, no second pond, the gap period funded by sponsors and brand deals, first cohort project chosen. |
 
 ## archive/exercises/ — what was asked and answered
 

@@ -1,46 +1,51 @@
 ---
 type: note
 title: Positioning
-summary: Selectivity is the live candidate for what FPO is known for, because an incubator that cannot say no cannot vouch for anyone
+summary: FPO is known for how well it mentors the people it takes on; selectivity is how that reputation gets earned, not the reputation itself
 audience: founders
 status: budding
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 # Positioning
 
-## What FPO is known for: selectivity
+## What FPO is known for: the quality of the mentoring
 
-This question failed three times before it produced an answer. In the written round three of four
-founders described an activity rather than a reputation. On 2026-09-24 the group skipped it. On
-2026-09-28 three of four converged.
+Everyone gets a fair shot. Who FPO chooses to mentor is FPO's call, and how well those people are
+mentored is what the reputation rests on.
 
-The argument, from Adithya:
+Adithya, who had proposed selectivity himself, argued it down:
 
-> "Reliability has to be awarded by someone else, so we cannot claim it yet. Selectivity is
-> something we do, starting with the first person we turn down. An incubator running forty a
-> cohort cannot say no, and once it cannot say no, its word on anyone inside is worth nothing."
+> "It is how the reputation gets earned. We don't want to be selective, and that's not our USP. We
+> want everybody to have a fair shot, but who we mentor is up to us. So then how we have mentored
+> them becomes the game. The reputation itself is not that we select the best people."
 
-Aneesh arrived independently at the same mechanism: a tight-knit group, small enough to grow
-reliably, where the team and the idea and the foundations are checked before anyone is taken on.
-Arjun had said it on 2026-09-24: we don't take everyone, and the people inside are in safe hands.
+The argument that settled it: if selectivity were the reputation, it would not have to be
+merit-based. You can be selective on friendship, institution or community and still be selective.
+The word promises nothing on its own.
 
-Selectivity works where the earlier answers did not, because it names something FPO **does**
-rather than a quality FPO claims. It also answers, without being asked, the differentiation
-question Arjun has raised three times: an incubator that cannot say no cannot vouch.
+*Settled 2026-09-30, all four. → `archive/meetings/meeting-2026-09-30.md`*
 
-*Live candidate as of 2026-09-28. Three of four in substance, not yet locked.
-→ `archive/exercises/exercise-2-synthesis.md`*
+## Selectivity, in its actual place
 
-**Still open:** whether selectivity is the reputation itself or the mechanism that earns one.
-Adithya's own phrasing points at the second.
+Still true and still load-bearing, but as the mechanism rather than the claim. A programme that
+takes everyone cannot recommend anyone, because it says yes to whoever walks in. FPO stays small
+enough that the founders can vouch for each person individually, and that is what gives the
+vouching weight.
+
+This also answers the differentiation question Arjun has raised three times: an incubator that
+cannot say no cannot vouch.
+
+*Reframed 2026-09-30. → `archive/meetings/meeting-2026-09-30.md`*
 
 ## Rejected: reliability
 
 Proposed by Adithya in the written round, then withdrawn by him. You cannot own reliability unless
-a third party awards it to you, and FPO is not chasing awards. Aneesh still pairs reliability with
-tight-knit.
+a third party awards it to you, and FPO is not chasing awards.
 *Withdrawn 2026-09-28 by its author. → `archive/exercises/exercise-2-synthesis.md`*
+
+Both of Adithya's own candidates have now failed the same test: the word does not survive contact
+with how it would actually be earned.
 
 ## The credibility constraint
 
